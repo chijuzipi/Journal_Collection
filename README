@@ -1,0 +1,9 @@
+"paperInfoGenerator"
+input: individual issue link (from file)
+output: individual paper link (write to file)
+
+
+mongoDriver:
+
+crawler
+ 
