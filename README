@@ -3,7 +3,10 @@ input: individual issue link (from file)
 output: individual paper link (write to file)
 
 
-mongoDriver:
+"mongoDriver"
+helper class to construct a mongo DB driver
 
-crawler
+"crawler"
+helper class to construct a urllib2 crawler 
+
  
